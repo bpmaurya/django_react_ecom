@@ -7,3 +7,4 @@ static
 media
 venv
 package-lock.json
+.vscode
